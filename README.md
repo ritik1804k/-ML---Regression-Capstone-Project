@@ -1,2 +1,2 @@
 # -ML---Regression-Capstone-Project
-I have created this capstone project using Google Colab notebook.
+NYC Taxi Trip Duration Prediction, I have created this capstone project using Python and Regression models .
